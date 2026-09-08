@@ -26,6 +26,7 @@ nothing just leetcode prob solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyush0070jaiswal/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [3870-count-commas-in-range](https://github.com/piyush0070jaiswal/leetcode-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/piyush0070jaiswal/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/piyush0070jaiswal/leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Sorting
